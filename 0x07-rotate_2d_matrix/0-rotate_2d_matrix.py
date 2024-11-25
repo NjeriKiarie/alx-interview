@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" A script n x n 2D matrix, rotates it 90 degrees clockwise.
+"""A script that rotate n x n 2D matrix to 90 degrees clockwise. 
 """
 
 
